@@ -1,0 +1,26 @@
+#container {
+    width: 600px;
+    margin: 80px auto;
+}
+
+h1 {
+    color: #507;
+    font-family: arial;
+}
+
+#line {
+    width: 600px;
+    border-bottom: 1px solid #EBF;
+}
+
+p {
+    font-family: verdana;
+}
+
+a {
+    color: #A8D;
+    text-decoration: none;
+}
+a:hover {
+    color: #DAF;
+}
